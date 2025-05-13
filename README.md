@@ -1,2 +1,2 @@
-# Quantum-walks-vs.-Classical-Random-Walks
-A Topological and Spectral Comparison
+# From Classical Diffusion to Quantum Walks
+Modeling Recurrence, Topology, and Decoherence
